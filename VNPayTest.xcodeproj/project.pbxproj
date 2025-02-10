@@ -147,7 +147,6 @@
 				7B4EBFCF2D570BEF00A555F6 /* App */,
 				7B4EBFDA2D57116500A555F6 /* Platform */,
 				7B4EBFD02D570BF900A555F6 /* Domain */,
-				7B4EBFCE2D570BDD00A555F6 /* Data */,
 				7B4EBFBD2D570BD700A555F6 /* AppDelegate.swift */,
 				7B4EBFBE2D570BD700A555F6 /* Assets.xcassets */,
 				7B4EBFBF2D570BD700A555F6 /* Info.plist */,
@@ -155,13 +154,6 @@
 				7B4EBFC42D570BD700A555F6 /* SceneDelegate.swift */,
 			);
 			path = VNPayTest;
-			sourceTree = "<group>";
-		};
-		7B4EBFCE2D570BDD00A555F6 /* Data */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Data;
 			sourceTree = "<group>";
 		};
 		7B4EBFCF2D570BEF00A555F6 /* App */ = {
